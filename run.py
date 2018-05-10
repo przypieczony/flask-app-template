@@ -9,7 +9,7 @@ from app import app
 
 
 #----------------------------------------
-# launch - not eaten or maybe...
+# launch
 #----------------------------------------
 
 if __name__ == "__main__":
